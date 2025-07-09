@@ -90,7 +90,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <a id="chinese"></a>
 ## 🌟 项目简介
 
-本项目为 ERP(资源协同)管理系统 的自动化测试平台，基于 Python+PO模式 开发，集成了 PaddleOCR、PyAutoGUI、Selenium 等工具，实现了自动化 UI 测试、OCR 识别与自动点击、数据驱动测试等功能。
+本项目是我在准备参加省职业技能大赛期间开发的项目，它是针对 ERP(资源协同)管理系统 的自动化测试平台，基于 Python+PO模式 开发，集成了 PaddleOCR、PyAutoGUI、Selenium 等工具，实现了自动化 UI 测试、OCR 识别与自动点击、数据驱动测试等功能。
 
 ### 项目背景
 1. 为什么需要自动化测试？
